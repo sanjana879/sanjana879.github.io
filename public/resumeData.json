@@ -1,0 +1,142 @@
+{
+  "main": {
+    "name":"Sanjana Yadav",
+    "occupation":"Software Engineer",
+    "image":"profilepic.jpg",
+    "bio":"Hi! I'm a sophomore at the University of Texas in Austin studying computer science in the Turing Scholars Program. I'm especially interested in full stack development, natural language processing, and applying these tools in society and government. In my free time, I like reading, painting, and photography!",
+    "contactmessage":"Feel free to email me",
+    "email": "sanjanayadav@utexas.edu",
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/sanjana-yadav-614367185/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/sanjana879",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I have experience using a variety of languages from object oriented ones to low level systems languages, and have used natural language processing libraries many times. I also have experience with workflow and testing technologies.",
+    "education":[
+      {
+        "school":"University of Texas at Austin - Turing Scholars Honors Program",
+        "degree":"Bachelor of Science in Computer Science",
+        "graduated":"August 2019 - Present",
+        "title": "Courses (H = Honors)",
+        "description": "Computer Architecture (H), Data Structure (H), Discrete Math (H), Robot Learning, Probability, Multivariable Calculus, Algorithms Design and Analysis Part 1 (Coursera)"
+      }
+    ],
+    "work":[
+      {
+        "company":"TurnUp Activism",
+        "title":"Software Engineer Intern",
+        "years":"June 2020 - August 2020",
+        "description":"Set up and maintained Firebase database for the website. I also acted as our Team Lead and organized meetings, reviewed pull requests and mentored those on my team."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"90%"
+      },
+      {
+        "name":"Python (Flask, Django, nltk)",
+        "level":"85%"
+      },
+      {
+        "name":"C",
+        "level":"70%"
+      },
+      {
+        "name":"Verilog",
+        "level":"70%"
+      },
+      {
+        "name":"HTML/CSS",
+        "level":"70%"
+      },
+      {
+        "name":"Javascript",
+        "level":"60%"
+      },
+      {
+        "name":"SQL",
+        "level":"50%"
+      },
+      {
+        "name":"Firebase",
+        "level":"50%"
+      },
+      {
+        "name":"x-86 Assembly",
+        "level":"50%"
+      },
+      {
+        "name":"React/React Native",
+        "level":"50%"
+      },
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"Terminal",
+        "level":"90%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Spotify Extension",
+        "category":"Full stack application that uses Spotify API and natural language processing toolkit to analyze albums on spotify",
+        "image":"spotify.jpg",
+        "technologies": "Django, Python (nltk), HTML/CSS"
+      },
+      {
+        "title":"Webcrawler",
+        "category":"A search engine that handles complex logical queries and crawls 9000+ webpages in seconds",
+        "technologies": "Java, JUnit Testing, HTML",
+        "image":"google.png"
+      },
+      {
+        "title":"Secure Your Flight",
+        "category":"A full stack app that uses api and crowd-sourced data on security wait times to calculate when to leave for the airport",
+        "image":"flight1.png",
+        "technologies": "Flask, SQL, HTML/CSS",
+        "url":"https://devpost.com/software/secure-your-flight"
+      },
+      {
+        "title":"Shell",
+        "category":"Created command-line shell that executes programs, redirects input/output, command history, and tab completion",
+        "image":"shell.png",
+        "technologies": "C, System calls"
+      },
+      {
+        "title":"FUN Compiler",
+        "category":"Developed compiler to change FUN programming language to x-86 assembly language and create an executable file",
+        "image":"compiler.jpg",
+        "technologies": "C, x-86 Assembly Language"
+      },
+      {
+        "title":"Temporary ID Checker",
+        "category":"Full stack app that catalogs how many temporary IDs each student has and automatically emails and prints notifications",
+        "image":"id.jpg",
+        "technologies": "Java/JavaFX, SQLite, ApachePOI"
+      },
+      {
+        "title":"Student 101",
+        "category":"A game with 4 levels where the user must move a robot using arrow keys to catch objects",
+        "image":"student.png",
+        "technologies": "Java/JavaFX",
+        "url":"https://github.com/sanjana879/Student101"
+      }
+    ]
+  }
+}
