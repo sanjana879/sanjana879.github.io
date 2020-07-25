@@ -119,6 +119,12 @@
         "technologies": "C, System calls"
       },
       {
+        "title": "Multicycle Pipelined Processor",
+        "category": "Designed a multicycle processor that utilized pipelining, branch prediction, forwarding, and flushing",
+        "image": "cpu.jpg",
+        "technologies": "Verilog"
+      },
+      {
         "title": "FUN Compiler",
         "category": "Developed compiler to change FUN programming language to x-86 assembly language and create an executable file",
         "image": "compiler.jpg",
